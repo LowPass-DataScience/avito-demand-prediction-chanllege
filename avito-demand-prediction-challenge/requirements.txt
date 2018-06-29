@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+opencv-python
+imutils
+scikit-image
+scikit-learn
+seaborn
+matplotlib
+lightgbm
+pillow
+tqdm
+PyICU
+pycld2
+Morfessor
+nltk
+git+https://github.com/aboSamoor/polyglot.git@master
