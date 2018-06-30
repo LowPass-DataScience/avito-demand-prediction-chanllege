@@ -15,7 +15,7 @@
 - [GradientBoost](#gbm)
 
 ## Raw Data <a name="rawdata"></a>
-All the data is available: https://www.kaggle.com/c/avito-demand-prediction/data.
+All the data is available [here](https://www.kaggle.com/c/avito-demand-prediction/data).
 
 ## Data Engineering <a name="dataengineering"></a>
 ### Step 1. Save data to HDF5 storage <a name="s1"></a>
@@ -191,7 +191,7 @@ All the data is available: https://www.kaggle.com/c/avito-demand-prediction/data
   - all_data_train_v2.feather
   - all_data_test_v2.feather
   - city_region_geocode.feather
-  - city_population_wiki_v3.csv (https://www.kaggle.com/stecasasso/russian-city-population-from-wikipedia)
+  - city_population_wiki_v3.csv ([Check here](https://www.kaggle.com/stecasasso/russian-city-population-from-wikipedia))
   - train.csv.zip
   - test.csv.zip
 - Output data:
