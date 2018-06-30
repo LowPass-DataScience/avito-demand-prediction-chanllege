@@ -152,8 +152,8 @@ All the data is available [here](https://www.kaggle.com/c/avito-demand-predictio
 - Input data:
   - basic_text_lsa_rs_imageI_data_train.feather
   - basic_text_lsa_rs_imageI_data_test.feather
-  - **_train_jpg_features.feather_**
-  - **_test_jpg_features.feather_**
+  - train_jpg_features.feather
+  - test_jpg_features.feather
 - Output data:
   - all_data_train.feather
   - all_data_test.feather
